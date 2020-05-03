@@ -5,6 +5,7 @@
 ## Тетрадки с итоговым решением:
 - [solution_prepare_data.ipynb](solution_prepare_data.ipynb) - подготовка исторических данных;
 - [solution_model.ipynb](solution_model.ipynb) - основная часть;
+- [analyze_predictions.ipynb](analyze_predictions.ipynb) - анализ прогнозов участников;
 
 ## Основные идеи:
 
